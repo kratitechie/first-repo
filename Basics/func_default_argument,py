@@ -1,0 +1,9 @@
+def greet(name='Krati'):
+    return f'Hello, {name}!'
+
+print (greet())
+
+def hello(name, age):
+    return f'Hello {name}, you are {age} years old.'
+
+print(hello('Krati', 26))
